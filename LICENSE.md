@@ -1,8 +1,3 @@
-puppet-motd-module
-==================
-
-Configures the message of the day
-
 Copyright 2014 Miguel Zuniga ( miguel-zuniga at hotmail.com )
 
 Licensed under the Apache License, Version 2.0 (the "License");
